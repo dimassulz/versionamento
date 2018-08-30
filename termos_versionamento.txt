@@ -3,8 +3,12 @@ README - Arquivo Leiame do seu repositorio, esse arquivo é apenas um arquivo de 
 
 GIT - Um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
 
+commit - Confirma a alteração do codigo
+pull - baixa os arquivos do repositorio web
+push - envia os arquivos do repositorio local para o web
+
 GitHub - Uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo
 
 BitBucket - Uma plataforma de hospedagem de código-fonte com controle de versão usando o Git.
 
-Versionamento ----------
+TortoiseGit - Ferramenta para simplificar o uso do Git sem linha de comando
