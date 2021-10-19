@@ -1,14 +1,18 @@
-RepositÛrio - Repository = Pasta = Projeto
-README - Arquivo Leiame do seu repositorio, esse arquivo È apenas um arquivo de texto indicando o que contem dentro do seu repositorio, instruÁıes para instalar, licenÁas, resumo do seu projeto.
+Repositorio - Repository = Pasta = Projeto
+README - Arquivo Leiame do seu repositorio, apenas um arquivo 
+de texto indicando o que contem dentro do seu repositorio, instru√ß√µes para instalar, 
+licen√ßas, resumo do seu projeto.
 
-GIT - Um sistema de controle de versıes distribuÌdo, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histÛrico de ediÁıes de qualquer tipo de arquivo.
+GIT - Um sistema de controle de vers√µes distribu√≠do, 
+usado principalmente no desenvolvimento de software, 
+mas pode ser usado para registrar o hist√≥rico de edi√ß√µes de qualquer tipo de arquivo.
 
-commit - Confirma a alteraÁ„o do codigo
+commit - Confirma a altera√ß√£o do codigo
 pull - baixa os arquivos do repositorio web
 push - envia os arquivos do repositorio local para o web
 
-GitHub - Uma plataforma de hospedagem de cÛdigo-fonte com controle de vers„o usando o Git. Ele permite que programadores, utilit·rios ou qualquer usu·rio cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo
+GitHub - Uma plataforma de hospedagem de c√≥digo-fonte com controle de vers√£o usando o Git. Ele permite que programadores, utilit√°rios ou qualquer usu√°rio cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo
 
-BitBucket - Uma plataforma de hospedagem de cÛdigo-fonte com controle de vers„o usando o Git.
+BitBucket - Uma plataforma de hospedagem de c√≥digo-fonte com controle de vers√£o usando o Git.
 
 TortoiseGit - Ferramenta para simplificar o uso do Git sem linha de comando
